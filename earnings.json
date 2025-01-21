@@ -1,0 +1,65 @@
+[
+    {
+        "Username": "ramisys",
+        "Start Time": "2024-06-04T14:00:33.327415",
+        "End Time": "2024-06-04T15:28:49.802550",
+        "Duration": "1:28:16.475135",
+        "Earnings": 22.07
+    },
+    {
+        "Username": "ka_hechanova",
+        "Start Time": "2024-06-04T14:01:39.079754",
+        "End Time": "2024-06-04T15:29:05.598672",
+        "Duration": "1:27:26.518918",
+        "Earnings": 21.86
+    },
+    {
+        "Username": "Earl",
+        "Start Time": "2024-06-04T15:26:40.820244",
+        "End Time": "2024-06-04T15:42:12.999133",
+        "Duration": "0:15:32.178889",
+        "Earnings": 3.88
+    },
+    {
+        "Username": "Earl",
+        "Start Time": "2024-06-04T15:35:41.213431",
+        "End Time": "2024-06-04T15:42:54.061209",
+        "Duration": "0:07:12.847778",
+        "Earnings": 1.8
+    },
+    {
+        "Username": "ramisys",
+        "Start Time": "2024-06-04T15:42:00.602933",
+        "End Time": "2024-06-04T15:44:14.008135",
+        "Duration": "0:02:13.405202",
+        "Earnings": 0.56
+    },
+    {
+        "Username": "ramisys",
+        "Start Time": "2024-06-04T15:43:26.168180",
+        "End Time": "2024-06-04T15:44:46.067388",
+        "Duration": "0:01:19.899208",
+        "Earnings": 0.33
+    },
+    {
+        "Username": "ramisys",
+        "Start Time": "2024-06-05T09:06:59.980448",
+        "End Time": "2024-06-05T09:07:38.895435",
+        "Duration": "0:00:38.914987",
+        "Earnings": 0.16
+    },
+    {
+        "Username": "ramisys",
+        "Start Time": "2024-06-05T09:30:25.738643",
+        "End Time": "2024-06-05T09:31:07.492680",
+        "Duration": "0:00:41.754037",
+        "Earnings": 0.17
+    },
+    {
+        "Username": "ramisys",
+        "Start Time": "2024-06-05T09:36:04.214065",
+        "End Time": "2024-06-05T09:36:29.006731",
+        "Duration": "0:00:24.792666",
+        "Earnings": 0.1
+    }
+]
